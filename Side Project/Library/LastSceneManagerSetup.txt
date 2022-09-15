@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/polyperfect/Low Poly Ultimate Pack/01 - All Models.unity
+- path: C:/Users/s214655/Downloads/Giacomo Okello - FeverCore (project)/DPF_Monty/Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
