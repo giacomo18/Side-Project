@@ -1,5 +1,5 @@
 sceneSetups:
-- path: C:/Users/s214655/Downloads/Giacomo Okello - FeverCore (project)/DPF_Monty/Assets/Scenes/SampleScene.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
